@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+    
+    <string-array name="android_versions">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclare</item>
+        <item>Foryo</item>
+        <item>Gingerbred</item>
+        <item>Honeycomb</item>
+        <item>Iceceram Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>KitKat</item>
+        <item>Lollipop</item>
+        <item>Marshmellow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>Android P</item>
+    </string-array>
+</resources>
